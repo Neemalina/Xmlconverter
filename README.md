@@ -45,7 +45,7 @@ converter.py - основной модуль
 test_converter.py - тесты
 
 *.conf - примеры конфигураций
-
-Тестирование
-bash
+```
+### Тестирование
+```bash
 python -m unittest test_converter.py
